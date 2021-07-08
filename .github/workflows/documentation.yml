@@ -1,4 +1,4 @@
-
+name: Github_test
 on:
   pull_request:
     branches: [master]
