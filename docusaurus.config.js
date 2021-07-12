@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Dinosaurs tasneem',
   url: 'https://tasneemkoushar.github.io',
   baseUrl: '/testing3/',
   onBrokenLinks: 'throw',
